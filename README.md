@@ -1,4 +1,4 @@
-A Reinforcement Learning model that trains a agent to be able to optimally pick a portfolio. 
+This is a Reinforcement Learning model that trains a agent to be able to optimally pick a portfolio. 
 The agent can at each time period (trading day) choose to buy/sell either a stock or bond.
 The agent can also choose to hold its current portfolio. Currently, the next periods stock price
 is simulated using a GBM.
